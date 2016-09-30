@@ -1,0 +1,10 @@
+enqueue hello
+enqueue data-structure
+dequeue
+length
+isEmpty
+enqueue hello
+reverse
+dequeue
+clear
+dequeue
