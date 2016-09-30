@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/csehome/jinkwon21/Downloads/lap4"/>
+		<item value="/csehome/jinkwon21/workspace/java/Lab4/bin"/>
+		<item value="/csehome/jinkwon21/workspace/java/Lab4/testcase"/>
+		<item value="/csehome/jinkwon21/workspace/java/Lab4/src"/>
+		<item value="/csehome/jinkwon21/workspace/java/Lab4"/>
+		<item value="/csehome/jinkwon21/workspace/java/PascalTriangle"/>
+		<item value="/csehome/jinkwon21/workspace/java/GCD"/>
+		<item value="/csehome/jinkwon21/workspace/java/TowerOfHanoi"/>
+	</list>
+</section>
