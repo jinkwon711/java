@@ -4,12 +4,12 @@ public void append(E item);
 public E remove()
 
 public void moveToStart(){
-	
+
 
 }
 
 public static boolean find(List<Integer> L, int k){
-	
+
 }
 
 class Alist<E> implements List<E>{
@@ -86,14 +86,14 @@ class Alist<E> implements List<E>{
 		if(listSize>0 ||(curr>=listSize)){
 			return null;
 		}
-		E it = listArray[curr]; 
+		E it = listArray[curr];
 		listsize--;
 		for(int i=curr; i!=listSize; i++){
 			listArray[curr] = listArray[curr+1];
 		}
 		return it;
 	}
-	
+
 	}
 
 
