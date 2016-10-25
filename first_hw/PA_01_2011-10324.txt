@@ -1,0 +1,6 @@
+Read ME 
+
+to run this jar program.
+from the readme directory.
+type below command.
+java -jar ./PA_01_2011-10324.jar ds.test.Main < input.txt > output.txt

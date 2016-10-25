@@ -1,0 +1,7 @@
+Read ME 
+
+to run this jar program.
+from the readme directory.
+type below command.
+java -classpath ./PA_02_2011-10324.jar main.Main < input.txt > output.txt
+
